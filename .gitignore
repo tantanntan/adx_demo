@@ -1,9 +1,6 @@
-# ignore all
-*
 #not ignore all directories
-!*/
-
-#whitelist
-!.gitignore
-!.src/apps/
-
+src/apps/*
+!src/apps/*/
+!src/apps/appfw
+!src/apps/datadef
+!src/apps/datadef
