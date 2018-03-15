@@ -1,6 +1,5 @@
 #not ignore all directories
 src/apps/*
-!src/apps/*/
 !src/apps/appfw
 !src/apps/datadef
 !src/apps/datadef
