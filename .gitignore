@@ -1,0 +1,9 @@
+# ignore all
+*
+#not ignore all directories
+!*/
+
+#whitelist
+!.gitignore
+!.src/apps/
+
